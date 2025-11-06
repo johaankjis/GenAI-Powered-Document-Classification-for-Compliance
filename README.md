@@ -61,7 +61,7 @@ A modern, AI-powered web application for automatically classifying compliance do
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed:
-- **Node.js** (v18 or higher)
+- **Node.js** (v18.17.0 or higher recommended)
 - **pnpm** (recommended) or npm/yarn
 
 ## 🚀 Installation
